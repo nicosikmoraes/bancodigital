@@ -4,6 +4,9 @@
 
 This project is a digital bank made using angular where you can create your own account, deposit, withdraw, transfer your money and keep track of all the transitions at the historic, it also use a fake api (json-server) to be the database so your data will be save in real time.
 
+# GitHub Pages
+https://nicosikmoraes.github.io/bancomanco-deploy/
+
 # Screen Design - Figma
 https://www.figma.com/design/MEYvQMTd8fMK0jhfI0vMbo/Banco-Manco?node-id=0-1&p=f&t=Ay5r7FzHrnEKy0FK-0
 
